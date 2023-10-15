@@ -1,5 +1,5 @@
-*.pdf
-old/
 .vscode/
 .mypy_cache/
-__pycacje__/
+__pycache__/
+*.pdf
+old/
