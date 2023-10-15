@@ -1,2 +1,5 @@
 *.pdf
 old/
+.vscode/
+.mypy_cache/
+__pycacje__/
